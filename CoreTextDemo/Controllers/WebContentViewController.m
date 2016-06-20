@@ -6,13 +6,13 @@
 //  Copyright © 2016 刘帅. All rights reserved.
 //
 
-#import "CTWebContentViewController.h"
+#import "WebContentViewController.h"
 
-@interface CTWebContentViewController ()
+@interface WebContentViewController ()
 
 @end
 
-@implementation CTWebContentViewController
+@implementation WebContentViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

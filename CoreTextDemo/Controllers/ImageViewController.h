@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CTImageViewController : UIViewController
+@interface ImageViewController : UIViewController
 
 @end

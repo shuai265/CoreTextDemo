@@ -6,13 +6,13 @@
 //  Copyright © 2016 刘帅. All rights reserved.
 //
 
-#import "CTImageViewController.h"
+#import "ImageViewController.h"
 
-@interface CTImageViewController ()
+@interface ImageViewController ()
 
 @end
 
-@implementation CTImageViewController
+@implementation ImageViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
